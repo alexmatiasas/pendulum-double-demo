@@ -1,0 +1,32 @@
+# Python compilers
+__pycache__/
+*.py[cod]
+*.so
+
+# Temporal files and logs
+*.log
+*.tmp
+*.bak
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Julia Files
+*.jl.cov
+*.ji
+Manifest.toml
+.julia/
+
+# Config files
+.env
+*.swp
+.DS_Store
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Results and generated data
+data/*
+!data/.gitkeep
