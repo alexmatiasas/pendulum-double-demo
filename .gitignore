@@ -16,7 +16,6 @@ venv/
 # Julia Files
 *.jl.cov
 *.ji
-Manifest.toml
 .julia/
 
 # Config files
