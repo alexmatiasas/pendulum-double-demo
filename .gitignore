@@ -29,3 +29,4 @@ venv/
 # Results and generated data
 data/*
 !data/.gitkeep
+simulate_pendulum.out
